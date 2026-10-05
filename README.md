@@ -43,6 +43,6 @@ Windows 11 で確認しています（Windows 10 でも動く作りですが、�
 
 ## 作者
 
-フカシGames（アイコンの絵は生成AIの ChatGPT で作りました）
+フカシGames
 
 Microsoft Teams は Microsoft の商標です。このソフトは Microsoft とは関係ありません。
