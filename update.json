@@ -1,0 +1,7 @@
+{
+    "version":  "2.5.0",
+    "url":  "https://github.com/FutureX-jp/staygreen/releases/download/v2.5.0/StayGreen.exe",
+    "sha256":  "4207EC6772683F030EEE6B2D5E37BDCBE43EF1C0451C2C98E299733B8E9FC86A",
+    "size":  308736,
+    "notes":  "・新しい版が出たら、通知領域のメニューから更新できるようになりました\n・不具合の記録（logs\\エラー.log）を残すようになりました"
+}
